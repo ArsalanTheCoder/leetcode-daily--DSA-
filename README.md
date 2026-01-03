@@ -1,5 +1,3 @@
-<img width="721" height="142" alt="image" src="https://github.com/user-attachments/assets/a16b1a04-348b-4bfb-96f8-1d036308f6d2" />
-
 # 🚀 LeetCode Daily – DSA Practice
 
 I solve **one LeetCode problem every day** to build strong **Data Structures & Algorithms** fundamentals and maintain consistency.
@@ -18,6 +16,7 @@ I solve **one LeetCode problem every day** to build strong **Data Structures & A
 - Python 🐍
 
 ---
+
 ## 📂 Repository Structure
 
 ```text
