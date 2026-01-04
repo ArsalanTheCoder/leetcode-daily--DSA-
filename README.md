@@ -32,7 +32,8 @@ leetcode-daily--DSA/
 | Day | Date       | Problem | Difficulty | Status |
 |----:|------------|--------|------------|--------|
 | 1   | 2026-01-01 | Two Sum | Easy | ✅ |
-| 3   | 2026-01-03 | Palindrome Number | Easy | ✅ |
+| 2   | 2026-01-03 | Palindrome Number | Easy | ✅ |
+| 3   | 2026-01-04 | Remove Duplicates from Sorted Array | Easy | ✅ |
 
 ---
 
