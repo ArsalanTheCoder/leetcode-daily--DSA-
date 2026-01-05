@@ -15,3 +15,4 @@ class Solution(object):
 obj = Solution()
 print(obj.removeDuplicates([0,0,1,1,1,2,2,3,3,4]))  # 5
 print(obj.removeDuplicates([1,1,2,3,4,5,5]))               # 2
+#Done
