@@ -33,8 +33,8 @@ leetcode-daily--DSA/
 |----:|------------|--------|------------|--------|
 | 1   | 2026-01-01 | Two Sum | Easy | ✅ |
 | 2   | 2026-01-03 | Palindrome Number | Easy | ✅ |
-| 3   | 2026-01-04 | Remove Duplicates from Sorted Array | Easy | ✅ |
-
+| 3   | 2026-01-04 | 26-Remove Duplicates from Sorted Array | Easy | ✅ |
+| 4   | 2026-01-05 | 27-Remove Elements | Easy | ✅ |
 ---
 
 ## 🔥 Consistency Rule
