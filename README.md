@@ -24,3 +24,30 @@ leetcode-daily--DSA/
 ├── 🟢 Easy/    # Basics, Strings, Arrays
 ├── 🟡 Medium/  # Trees, Graphs, Dynamic Programming
 └── 🔴 Hard/    # Complex Algorithms & Optimization
+
+---
+
+## 📊 Progress Summary
+
+| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
+| :---: | :---: | :---: | :---: |
+| **04** | 04 | 00 | 00 |
+
+---
+
+## 📅 Daily Progress Tracker
+
+| Day | Date | Problem | Difficulty | Solution | Status |
+| :---: | :--- | :--- | :---: | :---: | :---: |
+| 1 | 2026-01-01 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [View](./Easy/two_sum.py) | ✅ |
+| 2 | 2026-01-03 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [View](./Easy/palindrome.py) | ✅ |
+| 3 | 2026-01-04 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | [View](./Easy/remove_duplicates.py) | ✅ |
+| 4 | 2026-01-05 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | [View](./Easy/remove_element.py) | ✅ |
+
+---
+
+## 🔥 Consistency Rule
+> **"No zero days."** > Even a single Easy problem keeps the momentum alive. Consistency beats intensity every time.
+
+## 🌟 Motivation
+> *"Small daily improvements lead to big results."*
