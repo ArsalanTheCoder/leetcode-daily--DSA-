@@ -18,17 +18,6 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 
 ---
 
-## 📂 Repository Structure
-```text
-leetcode-daily--DSA/
-├── 🟢 Easy/    # Basics, Strings, Arrays
-├── 🟡 Medium/  # Trees, Graphs, Dynamic Programming
-└── 🔴 Hard/    # Complex Algorithms & Optimization
-
-
-
----
-
 ## 📅 Daily Progress Tracker
 
 | Day | Date       | Problem | Difficulty | Status |
