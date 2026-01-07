@@ -1,52 +1,30 @@
 # 🚀 LeetCode Daily – DSA Practice
 
-I solve **one LeetCode problem every day** to build strong **Data Structures & Algorithms** fundamentals and maintain consistency.
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status" />
+</p>
+
+I solve **one LeetCode problem every day** to sharpen my problem-solving skills, master **Data Structures & Algorithms**, and prepare for top-tier technical interviews.
 
 ---
 
-## 🧠 Goals
-- 📌 Solve **1 problem daily**
-- 📌 Improve problem-solving skills
-- 📌 Stay consistent
-- 📌 Prepare for coding interviews
-
----
-
-## 🛠 Language Used
-- Python 🐍
+## 🎯 Project Objectives
+* **Consistency:** Maintain a "No Zero Days" streak.
+* **Efficiency:** Optimize time and space complexity ($O(n)$, $O(\log n)$).
+* **Documentation:** Track progress and logic for future review.
+* **Preparation:** Ready for FAANG-level coding interviews.
 
 ---
 
 ## 📂 Repository Structure
-
 ```text
 leetcode-daily--DSA/
-├── Easy/    # Easy level problems
-├── Medium/  # Medium level problems
-└── Hard/    # Hard level problems
+├── 🟢 Easy/    # Basics, Strings, Arrays
+├── 🟡 Medium/  # Trees, Graphs, Dynamic Programming
+└── 🔴 Hard/    # Complex Algorithms & Optimization
 
----
 
-## 📅 Daily Progress Tracker
-
-| Day | Date       | Problem | Difficulty | Status |
-|----:|------------|--------|------------|--------|
-| 1   | 2026-01-01 | Two Sum | Easy | ✅ |
-| 2   | 2026-01-03 | Palindrome Number | Easy | ✅ |
-| 3   | 2026-01-04 | Remove Duplicates from Sorted Array | Easy | ✅ |
-
----
-
-## 🔥 Consistency Rule
-> **No zero days.**  
-Even solving **one problem** counts as success.
-
----
-
-## 🌟 Motivation
-> _“Small daily improvements lead to big results.”_
-
----
-
-### ⭐ If you like this repo, give it a star!
-
+🔥 Consistency Rule
+"No zero days." Even a single Easy problem keeps the momentum alive. Consistency beats intensity every time.
