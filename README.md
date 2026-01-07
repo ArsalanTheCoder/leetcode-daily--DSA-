@@ -26,5 +26,33 @@ leetcode-daily--DSA/
 └── 🔴 Hard/    # Complex Algorithms & Optimization
 
 
-🔥 Consistency Rule
-"No zero days." Even a single Easy problem keeps the momentum alive. Consistency beats intensity every time.
+
+---
+
+## 📅 Daily Progress Tracker
+
+| Day | Date       | Problem | Difficulty | Status |
+|----:|------------|--------|------------|--------|
+| 1   | 2026-01-01 | Two Sum | Easy | ✅ |
+| 2   | 2026-01-02 | Valid Palindrome | Easy | ✅ |
+| 3   | 2026-01-03 | Palindrome Number | Easy | ✅ |
+
+---
+
+## 🔥 Consistency Rule
+> **No zero days.**  
+Even solving **one problem** counts as success.
+
+---
+
+## 🌟 Motivation
+> _“Small daily improvements lead to big results.”_
+
+---
+
+### ⭐ If you like this repo, give it a star!
+
+
+
+
+
