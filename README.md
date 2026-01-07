@@ -20,11 +20,15 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 
 ## 📅 Daily Progress Tracker
 
-| Day | Date       | Problem | Difficulty | Status |
-|----:|------------|--------|------------|--------|
-| 1   | 2026-01-01 | Two Sum | Easy | ✅ |
-| 2   | 2026-01-02 | Valid Palindrome | Easy | ✅ |
-| 3   | 2026-01-03 | Palindrome Number | Easy | ✅ |
+| Day | Date       | Problem                         | Difficulty | Status |
+|----:|------------|----------------------------------|------------|--------|
+| 1   | 2026-01-01 | Two Sum                          | Easy       | ✅ |
+| 2   | 2026-01-03 | Palindrome Number                | Easy       | ✅ |
+| 3   | 2026-01-04 | Remove Duplicates from Sorted Array (26) | Easy | ✅ |
+| 4   | 2026-01-05 | Remove Element (27)              | Easy       | ✅ |
+| 5   | 2026-01-06 | Remove Duplicates from Sorted Array II (80) | Medium | ✅ |
+| 6   | 2026-01-07 | Move Zeroes (283)                | Easy       | ✅ |
+
 
 ---
 
