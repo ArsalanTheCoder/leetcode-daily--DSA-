@@ -1,10 +1,13 @@
 # 🚀 LeetCode Daily – DSA Practice
 
 <p align="center">
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Mohammad_Arsalan1/)
+  <a href="https://leetcode.com/u/Mohammad_Arsalan1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status" />
 </p>
+>
 
 I solve **one LeetCode problem every day** to sharpen my problem-solving skills, master **Data Structures & Algorithms**, and prepare for top-tier technical interviews.
 
