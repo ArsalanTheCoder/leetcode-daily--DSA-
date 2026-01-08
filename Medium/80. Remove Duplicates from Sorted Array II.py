@@ -8,6 +8,7 @@ class Solution(object):
             if nums[right] != nums[left-2]:
                 nums[left] = nums[right]
                 left+=1
+        print(nums)
 
         return left
    

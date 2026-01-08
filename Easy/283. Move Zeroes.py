@@ -24,7 +24,6 @@ class Solution(object):
         print(nums)    
                             
 
-
 obj = Solution()
 obj.moveZeroes(
  [1,0,1]
