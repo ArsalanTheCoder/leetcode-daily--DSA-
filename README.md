@@ -33,6 +33,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 5   | 2026-01-06 | Remove Duplicates from Sorted Array II (80) | Medium | ✅ |
 | 6   | 2026-01-07 | Move Zeroes (283)                | Easy       | ✅ |
 | 7   | 2026-01-08 | Reverse String (344)                | Easy       | ✅ |
+| 8   | 2026-01-012 | Happy Number (202)                | Easy       | ✅ |
 
 ---
 
