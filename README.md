@@ -34,7 +34,9 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 7   | 2026-01-08 | Reverse String (344)                | Easy       | ✅ |
 | 8   | 2026-01-12 | Happy Number (202)                | Easy       | ✅ |
 | 9   | 2026-01-13 | 3Sum (15)                | Medium       | ✅ |
-
+| 10   | 2026-01-14 | 3Sum Closest (16)                | Medium       | ✅ |
+| 11   | 2026-01-15 | Sort Colors (75)                | Medium       | ✅ |
+| 12   | 2026-01-16 | Reverse Words in a String (151)                | Medium       | ✅ |
 
 ---
 
