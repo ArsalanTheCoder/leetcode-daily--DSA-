@@ -39,6 +39,8 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 12   | 2026-01-16 | Reverse Words in a String (151)                | Medium       | ✅ |
 | 13   | 2026-01-17 | Merge Sorted Array (88)                | Easy       | ✅ |
 | 14   | 2026-01-18 | Permutation in String (567)                | Medium       | ✅ |
+| 15   | 2026-01-19 | Merge Strings Alternately (1768)                | Easy       | ✅ |
+| 16   | 2026-01-20 | Greatest Common Divisor of Strings (1071)                | Easy       | ✅ |
 
 ---
 
