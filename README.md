@@ -42,6 +42,8 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 15   | 2026-01-19 | Merge Strings Alternately (1768)                | Easy       | ✅ |
 | 16   | 2026-01-20 | Greatest Common Divisor of Strings (1071)                | Easy       | ✅ |
 | 17   | 2026-01-21 | Kids With the Greatest Number of Candies (1431)                | Easy       | ✅ |
+| 18   | 2026-01-23 | Can Place Flowers (605)                | Easy       | ✅ |
+
 
 ---
 
