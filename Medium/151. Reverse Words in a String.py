@@ -26,3 +26,16 @@ class Solution(object):
 
 obj = Solution()
 obj.reverseWords(s = "a good   example")
+
+
+
+# class Solution:
+#     def reverseWords(self, s: str) -> str:
+#         # Step 1: Split string into words (removes extra spaces automatically)
+#         s_split = s.split()
+        
+#         # Step 2: Reverse the list using slicing
+#         reverse_s = s_split[::-1]
+        
+#         # Step 3: Join back with a single space
+#         return ' '.join(reverse_s)
