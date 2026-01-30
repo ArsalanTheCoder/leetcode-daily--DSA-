@@ -46,6 +46,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 20   | 2026-01-26 | Minimum Absolute Difference (1200)                | Easy       | ✅ |
 | 21   | 2026-01-27 | Product of Array Except Self (238)                | Medium       | ✅ |
 | 22   | 2026-01-28 | Increasing Triplet Subsequence (334)                | Medium       | ✅ |
+| 23   | 2026-01-30 | String Compression (443)                | Medium       | ✅ |
 
 ---
 
