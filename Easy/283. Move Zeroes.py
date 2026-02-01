@@ -25,6 +25,4 @@ class Solution(object):
                             
 
 obj = Solution()
-obj.moveZeroes(
- [1,0,1]
-)
+obj.moveZeroes([1,0,1])
