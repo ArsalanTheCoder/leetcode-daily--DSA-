@@ -47,6 +47,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 21   | 2026-01-27 | Product of Array Except Self (238)                | Medium       | ✅ |
 | 22   | 2026-01-28 | Increasing Triplet Subsequence (334)                | Medium       | ✅ |
 | 23   | 2026-01-30 | String Compression (443)                | Medium       | ✅ |
+| 24   | 2026-02-01 | Is Subsequence (392)                | Easy       | ✅ |
 
 ---
 
