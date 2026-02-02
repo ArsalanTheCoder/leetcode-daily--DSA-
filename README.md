@@ -48,6 +48,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 22   | 2026-01-28 | Increasing Triplet Subsequence (334)                | Medium       | ✅ |
 | 23   | 2026-01-30 | String Compression (443)                | Medium       | ✅ |
 | 24   | 2026-02-01 | Is Subsequence (392)                | Easy       | ✅ |
+| 25   | 2026-02-02 | Container With Most Water (11)                | Medium       | ✅ |
 
 ---
 
