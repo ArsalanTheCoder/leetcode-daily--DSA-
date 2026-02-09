@@ -52,6 +52,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 26   | 2026-02-03 | Max Number of Sum Pairs (1679)                | Medium       | ✅ |
 | 27   | 2026-02-04 | Maximum Average Subarray I (643)                | Easy       | ✅ |
 | 28   | 2026-02-05 | Maximum Number of Vowels in a Substring of given length (1456)                | Medium       | ✅ |
+| 29   | 2026-02-09 | Minimum Removals to Balance Array (1456)                | Medium       | ✅ |
 
 ---
 
