@@ -55,6 +55,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 29   | 2026-02-09 | Minimum Removals to Balance Array (1456)                | Medium       | ✅ |
 | 30   | 2026-02-16 | Max Consecutive Ones III (1004)                | Medium       | ✅ |
 | 31   | 2026-02-17 | Longest Subarray of 1's After Deleting One ELement (1493)                | Medium       | ✅ |
+| 32   | 2026-02-18 | Contains Duplicate II (219)                | Easy       | ✅ |
 
 ---
 
