@@ -59,6 +59,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 33   | 2026-02-18 | Contains Duplicate (217)                | Easy       | ✅ |
 | 34   | 2026-02-20 | Subarray Product Less Than k (1493)                | Medium       | ✅ |
 | 35   | 2026-02-21 | Find the Highest Altitude (1732)                | Easy       | ✅ |
+| 36   | 2026-02-22 | Find the Score Difference in a Game (3847)                | Medium       | ✅ |
 
 ---
 
