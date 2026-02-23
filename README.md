@@ -24,8 +24,8 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 
 | Day | Date       | Problem                         | Difficulty | Status |
 |----:|------------|----------------------------------|------------|--------|
-| 1   | 2026-01-01 | Two Sum                          | Easy       | ✅ |
-| 2   | 2026-01-03 | Palindrome Number                | Easy       | ✅ |
+| 1   | 2026-01-01 | Two Sum (1)                         | Easy       | ✅ |
+| 2   | 2026-01-03 | Palindrome Number (9)               | Easy       | ✅ |
 | 3   | 2026-01-04 | Remove Duplicates from Sorted Array (26) | Easy | ✅ |
 | 4   | 2026-01-05 | Remove Element (27)              | Easy       | ✅ |
 | 5   | 2026-01-06 | Remove Duplicates from Sorted Array II (80) | Medium | ✅ |
@@ -60,6 +60,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 34   | 2026-02-20 | Subarray Product Less Than k (1493)                | Medium       | ✅ |
 | 35   | 2026-02-21 | Find the Highest Altitude (1732)                | Easy       | ✅ |
 | 36   | 2026-02-22 | Find the Score Difference in a Game (3847)                | Medium       | ✅ |
+| 37   | 2026-02-23 | Find the Pivot Index (724)                | Easy       | ✅ |
 
 ---
 
