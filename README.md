@@ -61,6 +61,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 35   | 2026-02-21 | Find the Highest Altitude (1732)                | Easy       | ✅ |
 | 36   | 2026-02-22 | Find the Score Difference in a Game (3847)                | Medium       | ✅ |
 | 37   | 2026-02-23 | Find the Pivot Index (724)                | Easy       | ✅ |
+| 38   | 2026-02-24 | Find the Difference of Two Arrays (2215)                | Easy       | ✅ |
 
 ---
 
