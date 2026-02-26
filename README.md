@@ -63,6 +63,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 37   | 2026-02-23 | Find the Pivot Index (724)                | Easy       | ✅ |
 | 38   | 2026-02-24 | Find the Difference of Two Arrays (2215)                | Easy       | ✅ |
 | 39   | 2026-02-25 | Unique Number of Occurrences (1207)                | Easy       | ✅ |
+| 40   | 2026-02-26 | Determine if Two Strings Are Close (1657)                | Medium       | ✅ |
 
 ---
 
