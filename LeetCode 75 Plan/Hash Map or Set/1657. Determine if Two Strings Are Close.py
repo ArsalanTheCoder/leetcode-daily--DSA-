@@ -19,3 +19,4 @@ class Solution:
 
 obj = Solution()
 print(obj.closeStrings(word1 = "abc", word2 = "bca"))
+
