@@ -66,6 +66,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 40   | 2026-02-26 | Determine if Two Strings Are Close (1657)                | Medium       | ✅ |
 | 41   | 2026-02-28 | Equal Rows and Column Pairs (2352)                | Medium       | ✅ |
 | 42   | 2026-03-01 | Partitioning into Medium Number of Deci-Binary Numbers (1689)                | Medium       | ✅ |
+| 43   | 2026-03-02 | Removing Stars From a String (2390)                | Medium       | ✅ |
 
 ---
 
