@@ -68,7 +68,6 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 42   | 2026-03-01 | Partitioning into Medium Number of Deci-Binary Numbers (1689)                | Medium       | ✅ |
 | 43   | 2026-03-02 | Removing Stars From a String (2390)                | Medium       | ✅ |
 | 44   | 2026-03-04 | Decode String (394)                | Medium       | ✅ |
-
 | 45   | 2026-03-04 | Check if N and its Double Exist (1346)              | Easy       | ✅ |
 
 
