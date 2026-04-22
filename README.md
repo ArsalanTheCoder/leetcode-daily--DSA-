@@ -70,6 +70,9 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 44   | 2026-03-04 | Decode String (394)                | Medium       | ✅ |
 | 45   | 2026-04-19 | Check if N and its Double Exist (1346)              | Easy       | ✅ | (after long break)
 | 46   | 2026-04-20 | Check if N and its Double Exist (1346)              | Easy       | ✅ |
+| 47   | 2026-04-21 | Concatenation of Array (1929)              | Easy       | ✅ |
+| 47   | 2026-04-21 | Delete the Middle Node of a Linked Listt (2095)              | Medium       | ✅ |
+| 47   | 2026-04-21 | Middle of the Linked List.py (876)              | Easy       | ✅ |
 
 
 ---
