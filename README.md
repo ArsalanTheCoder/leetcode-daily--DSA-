@@ -74,6 +74,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 47   | 2026-04-21 | Delete the Middle Node of a Linked Listt (2095)              | Medium       | ✅ |
 | 47   | 2026-04-21 | Middle of the Linked List (876)              | Easy       | ✅ |
 | 48   | 2026-04-22 | Odd Even Linked List (328)              | Medium       | ✅ |
+| 49   | 2026-06-01 |  (328)              | Medium       | ✅ |
 
 ---
 
