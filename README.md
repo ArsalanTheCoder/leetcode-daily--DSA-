@@ -30,12 +30,6 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 >
 > 🚀 **Goal:** Build consistency, improve problem-solving skills, and strengthen DSA foundations.
 
-
-Also, I would strongly recommend **not creating a 60-row table**. It makes the README huge and ugly.
-
-Instead use this compact version:
-
-:::writing{variant="standard" id="38174"}
 ## 🏆 2-Month LeetCode Challenge (21 June – 21 August 2026)
 
 | Goal | Duration | Progress | Status |
