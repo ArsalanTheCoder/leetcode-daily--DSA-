@@ -40,12 +40,40 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
 ```
 
+## 📅 60-Day Challenge Tracker
+
+| Day | Date        | Problem                | Difficulty | Solution |
+| --- | ----------- | ---------------------- | ---------- | -------- |
+| 1   | 21-Jun-2026 | Defuse the Bomb (1652) | Easy       | ✅        |
+| 2   | 22-Jun-2026 |                        |            | ⏳        |
+| 3   | 23-Jun-2026 |                        |            | ⏳        |
+| 4   | 24-Jun-2026 |                        |            | ⏳        |
+| 5   | 25-Jun-2026 |                        |            | ⏳        |
+| 6   | 26-Jun-2026 |                        |            | ⏳        |
+| 7   | 27-Jun-2026 |                        |            | ⏳        |
+| 8   | 28-Jun-2026 |                        |            | ⏳        |
+| 9   | 29-Jun-2026 |                        |            | ⏳        |
+| 10  | 30-Jun-2026 |                        |            | ⏳        |
+| 11  | 01-Jul-2026 |                        |            | ⏳        |
+| 12  | 02-Jul-2026 |                        |            | ⏳        |
+| 13  | 03-Jul-2026 |                        |            | ⏳        |
+| 14  | 04-Jul-2026 |                        |            | ⏳        |
+| 15  | 05-Jul-2026 |                        |            | ⏳        |
+| 16  | 06-Jul-2026 |                        |            | ⏳        |
+| 17  | 07-Jul-2026 |                        |            | ⏳        |
+| 18  | 08-Jul-2026 |                        |            | ⏳        |
+| 19  | 09-Jul-2026 |                        |            | ⏳        |
+| 20  | 10-Jul-2026 |                        |            | ⏳        |
+| ... | ...         | ...                    | ...        | ...      |
+| 60  | 21-Aug-2026 |                        |            | ⏳        |
+
+> ✅ = Completed    ⏳ = Pending
+
+
+
 > 💡 **Rule:** No Zero Days. Even one solved problem keeps the streak alive.
 
 ---
-
-
-
 
 
 ## 📅 Daily Progress Tracker
