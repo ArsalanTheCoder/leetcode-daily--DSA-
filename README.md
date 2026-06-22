@@ -46,6 +46,7 @@ Instead use this compact version:
 
 ```text
 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1.67%
+```
 
 ## 📅 60-Day Challenge Tracker
 
