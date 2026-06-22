@@ -53,7 +53,7 @@ Instead use this compact version:
 | Day | Date        | Problem                | Difficulty | Solution |
 | --- | ----------- | ---------------------- | ---------- | -------- |
 | 1   | 21-Jun-2026 | Defuse the Bomb (1652) | Easy       | ✅        |
-| 2   | 22-Jun-2026 |                        |            | ⏳        |
+| 2   | 22-Jun-2026 | Defuse the Bomb (1652) (Solved by another solution) | Easy       | ✅        |
 | 3   | 23-Jun-2026 |                        |            | ⏳        |
 | 4   | 24-Jun-2026 |                        |            | ⏳        |
 | 5   | 25-Jun-2026 |                        |            | ⏳        |
