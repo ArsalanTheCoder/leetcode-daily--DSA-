@@ -50,7 +50,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 2   | 22-Jun-2026 | Defuse the Bomb (1652) (Solved by another solution) | Easy       | ✅        |
 | 3   | 23-Jun-2026 | Longest Harmonious Subsequence(594) | Easy           | ✅        |
 | 4   | 24-Jun-2026 | 2379. Minimum Recolors to Get K Consecutive Black Blocks | Easy           | ✅        |
-| 5   | 25-Jun-2026 |                        |            | ⏳        |
+| 5   | 25-Jun-2026 | 2760. Longest Even Odd Subarray With Threshold                       | Easy           | ✅        |
 | 6   | 26-Jun-2026 |                        |            | ⏳        |
 | 7   | 27-Jun-2026 |                        |            | ⏳        |
 | 8   | 28-Jun-2026 |                        |            | ⏳        |
