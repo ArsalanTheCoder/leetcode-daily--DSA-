@@ -11,7 +11,7 @@ class Solution:
                     current = 1
                     ans = max(ans, current)
 
-            # Try to extend the current subarray
+            # Try to extend the current subarray 
             else:
                 if nums[i] <= threshold and nums[i] % 2 != nums[i - 1] % 2:
                     current += 1
@@ -21,10 +21,10 @@ class Solution:
                     if nums[i] % 2 == 0 and nums[i] <= threshold:
                         current = 1
                     else:
-                        current = 0
+                        current = 0 
 
         return ans
 
 obj = Solution()
-ans = obj.longestAlternatingSubarray(nums = [1], threshold = 4)
+ans = obj.longestAlternatingSubarray(nums = [2,3,4,5], threshold = 4)
 print(ans)
