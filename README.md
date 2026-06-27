@@ -52,8 +52,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 4   | 24-Jun-2026 | 2379. Minimum Recolors to Get K Consecutive Black Blocks | Easy           | ✅        |
 | 5   | 25-Jun-2026 | 2760. Longest Even Odd Subarray With Threshold                       | Easy           | ✅        |
 | 6   | 26-Jun-2026 | 2760. Longest Even Odd Subarray with Threshold (New Approach)   | Easy           | ✅        |
-| 6   | 26-Jun-2026 | 1248. Count Number of Nice Subarrays  | Easy           | ✅        |
-| 7   | 27-Jun-2026 |                        |            | ⏳        |
+| 7   | 27-Jun-2026 | 1248. Count Number of Nice Subarrays  | Easy           | ✅        |
 | 8   | 28-Jun-2026 |                        |            | ⏳        |
 | 9   | 29-Jun-2026 |                        |            | ⏳        |
 | 10  | 30-Jun-2026 |                        |            | ⏳        |
