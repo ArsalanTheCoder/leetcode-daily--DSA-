@@ -54,7 +54,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 6   | 26-Jun-2026 | 2760. Longest Even Odd Subarray with Threshold (New Approach)   | Easy           | ✅        |
 | 7   | 27-Jun-2026 | 1248. Count Number of Nice Subarrays  | Medium           | ✅        |
 | 8   | 28-Jun-2026 | 2932. Maximum Strong Pair XOR I  | Easy           | ✅        |
-| 9   | 29-Jun-2026 |                        |            | ⏳        |
+| 9   | 29-Jun-2026 | 1967. Number of Strings That Appear as Substrings in Word  |  Easy          | ✅        |
 | 10  | 30-Jun-2026 |                        |            | ⏳        |
 | 11  | 01-Jul-2026 |                        |            | ⏳        |
 | 12  | 02-Jul-2026 |                        |            | ⏳        |
