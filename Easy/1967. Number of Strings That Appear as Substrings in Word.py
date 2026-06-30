@@ -1,8 +1,8 @@
 class Solution:
     def numOfStrings(self, patterns, word):
         counter = 0
-        for i in patterns:
-            if i in word:
+        for pattern in patterns:
+            if pattern in word:
                 counter+=1
         return counter
 
