@@ -56,7 +56,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 8   | 28-Jun-2026 | 2932. Maximum Strong Pair XOR I  | Easy           | ✅        |
 | 9   | 29-Jun-2026 | 1967. Number of Strings That Appear as Substrings in Word  |  Easy          | ✅        |
 | 10  | 30-Jun-2026 | 1358. Number of Substrings Containing All Three Characters                       | Medium           | ✅        |
-| 11  | 01-Jul-2026 |                        |            | ⏳        |
+| 11  | 01-Jul-2026 | 1614. Maximum Nesting Depth of the Parentheses    |  Easy          | ✅        |
 | 12  | 02-Jul-2026 |                        |            | ⏳        |
 | 13  | 03-Jul-2026 |                        |            | ⏳        |
 | 14  | 04-Jul-2026 |                        |            | ⏳        |
