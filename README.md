@@ -39,7 +39,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 ### 📊 Progress
 
 ```text
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1.67%
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 18.33%
 ```
 
 ## 📅 60-Day Challenge Tracker
