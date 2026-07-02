@@ -6,11 +6,12 @@ class Solution:
         for current in s:
             if current=='(':
                 count += 1
-            if current == ')':
+            elif current == ')':
                 count -= 1
             
             maximum = max(maximum, count)
-            print(maximum)
+        
+        return maximum
         
 obj = Solution()
 obj.maxDepth(s = "()(())((()()))")
