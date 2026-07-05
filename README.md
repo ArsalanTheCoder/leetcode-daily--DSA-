@@ -60,7 +60,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 12  | 02-Jul-2026 | 1475. Final Prices With a Special Discount in a Shop   | Easy           | ✅        |
 | 13  | 03-Jul-2026 | 32. Longest Valid Parentheses    | Hard           | ✅        |
 | 14  | 04-Jul-2026 | 853. Car Fleet    | Medium           | ✅        |
-| 15  | 05-Jul-2026 |                        |            | ⏳        |
+| 15  | 05-Jul-2026 | 1544. Make The String Great   |  Easy          | ✅        |
 | 16  | 06-Jul-2026 |                        |            | ⏳        |
 | 17  | 07-Jul-2026 |                        |            | ⏳        |
 | 18  | 08-Jul-2026 |                        |            | ⏳        |
