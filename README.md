@@ -61,7 +61,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 13  | 03-Jul-2026 | 32. Longest Valid Parentheses    | Hard           | ✅        |
 | 14  | 04-Jul-2026 | 853. Car Fleet    | Medium           | ✅        |
 | 15  | 05-Jul-2026 | 1544. Make The String Great   |  Easy          | ✅        |
-| 16  | 06-Jul-2026 | I will solve two problems tomorrow                       |            | ⏳        |
+| 16  | 06-Jul-2026 | 1021. Remove Outermost Parentheses   | Easy           | ✅        |
 | 17  | 07-Jul-2026 |                        |            | ⏳        |
 | 18  | 08-Jul-2026 |                        |            | ⏳        |
 | 19  | 09-Jul-2026 |                        |            | ⏳        |
