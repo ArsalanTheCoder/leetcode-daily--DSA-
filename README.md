@@ -62,7 +62,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 14  | 04-Jul-2026 | 853. Car Fleet    | Medium           | ✅        |
 | 15  | 05-Jul-2026 | 1544. Make The String Great   |  Easy          | ✅        |
 | 16  | 06-Jul-2026 | 1021. Remove Outermost Parentheses   | Easy           | ✅        |
-| 17  | 07-Jul-2026 |                        |            | ⏳        |
+| 17  | 07-Jul-2026 | 2000. Reverse Prefix of Word   | Easy           | ✅        |
 | 18  | 08-Jul-2026 |                        |            | ⏳        |
 | 19  | 09-Jul-2026 |                        |            | ⏳        |
 | 20  | 10-Jul-2026 |                        |            | ⏳        |
