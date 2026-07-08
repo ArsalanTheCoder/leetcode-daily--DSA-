@@ -15,7 +15,6 @@ class Solution:
 
         return (''.join(stack))
 
-
 obj = Solution()
 result = obj.removeOuterParentheses( s = "(()())(())(()(()))")
 print(result)
