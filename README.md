@@ -64,7 +64,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 16  | 06-Jul-2026 | 1021. Remove Outermost Parentheses   | Easy           | ✅        |
 | 17  | 07-Jul-2026 | 2000. Reverse Prefix of Word   | Easy           | ✅        |
 | 18  | 08-Jul-2026 |                        |            | ⏳        |
-| 19  | 09-Jul-2026 |                        |            | ⏳        |
+| 19  | 09-Jul-2026 | 933. Number of Recent Calls  | Easy           | ✅        |
 | 20  | 10-Jul-2026 |                        |            | ⏳        |
 | ... | ...         | ...                    | ...        | ...      |
 | 60  | 21-Aug-2026 |                        |            | ⏳        |
