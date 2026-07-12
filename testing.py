@@ -12,4 +12,4 @@ class Solution:
         return ans
 
 obj = Solution()
-print(obj.getConcatenation([1,2,3]))
+print(obj.getConcatenation([1,2,3,5]) )
