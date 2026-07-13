@@ -68,7 +68,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 20  | 10-Jul-2026 |      |            |         |
 | 21  | 11-Jul-2026 | 232. Implement Queue using Stacks    | Easy            | ✅        |
 | 22  | 12-Jul-2026 | 225. Implement Stack using Queues     | Easy           | ✅        |
-| 23  | 13-Jul-2026 |      |            |         |
+| 23  | 13-Jul-2026 | 1700. Number of Students Unable to Eat Lunch     | Easy           | ✅       |
 | 24  | 14-Jul-2026 |      |            |         |
 | 25  | 15-Jul-2026 |      |            |         |
 | 26  | 16-Jul-2026 |      |            |         |
