@@ -63,13 +63,13 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 15  | 05-Jul-2026 | 1544. Make The String Great   |  Easy          | ✅        |
 | 16  | 06-Jul-2026 | 1021. Remove Outermost Parentheses   | Easy           | ✅        |
 | 17  | 07-Jul-2026 | 2000. Reverse Prefix of Word   | Easy           | ✅        |
-| 18  | 08-Jul-2026 |                        |            | ⏳        |
+| 18  | 08-Jul-2026 | 2704. To Be Or Not To Be                       | Easy           | ✅        |
 | 19  | 09-Jul-2026 | 933. Number of Recent Calls  | Easy           | ✅        |
-| 20  | 10-Jul-2026 |      |            |         |
+| 20  | 10-Jul-2026 | 2665. Counter II     | Easy           | ✅        |
 | 21  | 11-Jul-2026 | 232. Implement Queue using Stacks    | Easy            | ✅        |
 | 22  | 12-Jul-2026 | 225. Implement Stack using Queues     | Easy           | ✅        |
 | 23  | 13-Jul-2026 | 1700. Number of Students Unable to Eat Lunch     | Easy           | ✅       |
-| 24  | 14-Jul-2026 |      |            |         |
+| 24  | 14-Jul-2026 | 2073. Time Needed to Buy Tickets   | Easy           |  ✅       |
 | 25  | 15-Jul-2026 |      |            |         |
 | 26  | 16-Jul-2026 |      |            |         |
 | 27  | 17-Jul-2026 |      |            |         |
