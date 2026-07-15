@@ -70,7 +70,7 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 | 22  | 12-Jul-2026 | 225. Implement Stack using Queues     | Easy           | ✅        |
 | 23  | 13-Jul-2026 | 1700. Number of Students Unable to Eat Lunch     | Easy           | ✅       |
 | 24  | 14-Jul-2026 | 2073. Time Needed to Buy Tickets   | Easy           |  ✅       |
-| 25  | 15-Jul-2026 |      |            |         |
+| 25  | 15-Jul-2026 | 950. Reveal Cards In Increasing Order     | Medium           | ✅        |
 | 26  | 16-Jul-2026 |      |            |         |
 | 27  | 17-Jul-2026 |      |            |         |
 | 28  | 18-Jul-2026 |      |            |         |
