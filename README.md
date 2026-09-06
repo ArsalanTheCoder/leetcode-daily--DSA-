@@ -20,8 +20,6 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 
 ---
 
----
-
 # 🏆 2-Month LeetCode Consistency Challenge
 
 > 🎯 **Mission:** Solve at least **1 LeetCode problem every day** for **60 Days**
@@ -29,57 +27,155 @@ I solve **one LeetCode problem every day** to sharpen my problem-solving skills,
 > 📅 **Duration:** 21 June 2026 → 21 August 2026
 >
 > 🚀 **Goal:** Build consistency, improve problem-solving skills, and strengthen DSA foundations.
+>
+> 🏆 **Result:** Challenge Completed — **60/60 Days** ✅
 
-## 🏆 2-Month LeetCode Challenge (21 June – 21 August 2026)
+---
 
-| Goal | Duration | Progress | Status |
-|--------|----------|----------|---------|
-| Solve 1 LeetCode Problem Daily | 60 Days | 1/60 | 🚀 Active |
+# 🏆 60-Day LeetCode Challenge
 
-### 📊 Progress
+| Goal                           | Duration | Progress  | Status           |
+| ------------------------------ | -------- | --------- | ---------------- |
+| Solve 1 LeetCode Problem Daily | 60 Days  | **60/60** | 🏆 **Completed** |
+
+## 📊 Progress
 
 ```text
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 18.33%
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%
 ```
+
+---
 
 ## 📅 60-Day Challenge Tracker
 
-| Day | Date        | Problem                | Difficulty | Solution |
-| --- | ----------- | ---------------------- | ---------- | -------- |
-| 1   | 21-Jun-2026 | Defuse the Bomb (1652) | Easy       | ✅        |
-| 2   | 22-Jun-2026 | Defuse the Bomb (1652) (Solved by another solution) | Easy       | ✅        |
-| 3   | 23-Jun-2026 | Longest Harmonious Subsequence(594) | Easy           | ✅        |
-| 4   | 24-Jun-2026 | 2379. Minimum Recolors to Get K Consecutive Black Blocks | Easy           | ✅        |
-| 5   | 25-Jun-2026 | 2760. Longest Even Odd Subarray With Threshold                       | Easy           | ✅        |
-| 6   | 26-Jun-2026 | 2760. Longest Even Odd Subarray with Threshold (New Approach)   | Easy           | ✅        |
-| 7   | 27-Jun-2026 | 1248. Count Number of Nice Subarrays  | Medium           | ✅        |
-| 8   | 28-Jun-2026 | 2932. Maximum Strong Pair XOR I  | Easy           | ✅        |
-| 9   | 29-Jun-2026 | 1967. Number of Strings That Appear as Substrings in Word  |  Easy          | ✅        |
-| 10  | 30-Jun-2026 | 1358. Number of Substrings Containing All Three Characters                       | Medium           | ✅        |
-| 11  | 01-Jul-2026 | 1614. Maximum Nesting Depth of the Parentheses    |  Easy          | ✅        |
-| 12  | 02-Jul-2026 | 1475. Final Prices With a Special Discount in a Shop   | Easy           | ✅        |
-| 13  | 03-Jul-2026 | 32. Longest Valid Parentheses    | Hard           | ✅        |
-| 14  | 04-Jul-2026 | 853. Car Fleet    | Medium           | ✅        |
-| 15  | 05-Jul-2026 | 1544. Make The String Great   |  Easy          | ✅        |
-| 16  | 06-Jul-2026 | 1021. Remove Outermost Parentheses   | Easy           | ✅        |
-| 17  | 07-Jul-2026 | 2000. Reverse Prefix of Word   | Easy           | ✅        |
-| 18  | 08-Jul-2026 | 2704. To Be Or Not To Be                       | Easy           | ✅        |
-| 19  | 09-Jul-2026 | 933. Number of Recent Calls  | Easy           | ✅        |
-| 20  | 10-Jul-2026 | 2665. Counter II     | Easy           | ✅        |
-| 21  | 11-Jul-2026 | 232. Implement Queue using Stacks    | Easy            | ✅        |
-| 22  | 12-Jul-2026 | 225. Implement Stack using Queues     | Easy           | ✅        |
-| 23  | 13-Jul-2026 | 1700. Number of Students Unable to Eat Lunch     | Easy           | ✅       |
-| 24  | 14-Jul-2026 | 2073. Time Needed to Buy Tickets   | Easy           |  ✅       |
-| 25  | 15-Jul-2026 | 950. Reveal Cards In Increasing Order     | Medium           | ✅        |
-| 26  | 16-Jul-2026 | 2634. Filter Elements from Array     | Easy           | ✅       |
-| 27  | 17-Jul-2026 |      |            |         |
-| 28  | 18-Jul-2026 |      |            |         |
-| ... | ...         | ...                    | ...        | ...      |
-| 60  | 21-Aug-2026 |                        |            | ⏳        |
+| Day | Date        | Problem                                                       | Difficulty | Solution |
+| --- | ----------- | ------------------------------------------------------------- | ---------- | -------- |
+| 1   | 21-Jun-2026 | 1652. Defuse the Bomb                                         | Easy       | ✅        |
+| 2   | 22-Jun-2026 | 1652. Defuse the Bomb (Solved by another solution)            | Easy       | ✅        |
+| 3   | 23-Jun-2026 | 594. Longest Harmonious Subsequence                           | Easy       | ✅        |
+| 4   | 24-Jun-2026 | 2379. Minimum Recolors to Get K Consecutive Black Blocks      | Easy       | ✅        |
+| 5   | 25-Jun-2026 | 2760. Longest Even Odd Subarray With Threshold                | Easy       | ✅        |
+| 6   | 26-Jun-2026 | 2760. Longest Even Odd Subarray With Threshold (New Approach) | Easy       | ✅        |
+| 7   | 27-Jun-2026 | 1248. Count Number of Nice Subarrays                          | Medium     | ✅        |
+| 8   | 28-Jun-2026 | 2932. Maximum Strong Pair XOR I                               | Easy       | ✅        |
+| 9   | 29-Jun-2026 | 1967. Number of Strings That Appear as Substrings in Word     | Easy       | ✅        |
+| 10  | 30-Jun-2026 | 1358. Number of Substrings Containing All Three Characters    | Medium     | ✅        |
+| 11  | 01-Jul-2026 | 1614. Maximum Nesting Depth of the Parentheses                | Easy       | ✅        |
+| 12  | 02-Jul-2026 | 1475. Final Prices With a Special Discount in a Shop          | Easy       | ✅        |
+| 13  | 03-Jul-2026 | 32. Longest Valid Parentheses                                 | Hard       | ✅        |
+| 14  | 04-Jul-2026 | 853. Car Fleet                                                | Medium     | ✅        |
+| 15  | 05-Jul-2026 | 1544. Make The String Great                                   | Easy       | ✅        |
+| 16  | 06-Jul-2026 | 1021. Remove Outermost Parentheses                            | Easy       | ✅        |
+| 17  | 07-Jul-2026 | 2000. Reverse Prefix of Word                                  | Easy       | ✅        |
+| 18  | 08-Jul-2026 | 2704. To Be Or Not To Be                                      | Easy       | ✅        |
+| 19  | 09-Jul-2026 | 933. Number of Recent Calls                                   | Easy       | ✅        |
+| 20  | 10-Jul-2026 | 2665. Counter II                                              | Easy       | ✅        |
+| 21  | 11-Jul-2026 | 232. Implement Queue using Stacks                             | Easy       | ✅        |
+| 22  | 12-Jul-2026 | 225. Implement Stack using Queues                             | Easy       | ✅        |
+| 23  | 13-Jul-2026 | 1700. Number of Students Unable to Eat Lunch                  | Easy       | ✅        |
+| 24  | 14-Jul-2026 | 2073. Time Needed to Buy Tickets                              | Easy       | ✅        |
+| 25  | 15-Jul-2026 | 950. Reveal Cards In Increasing Order                         | Medium     | ✅        |
+| 26  | 16-Jul-2026 | 2634. Filter Elements from Array                              | Easy       | ✅        |
+| 27  | 17-Jul-2026 | 1260. Shift 2D Grid                                           | Easy       | ✅        |
+| 28  | 18-Jul-2026 | 1464. Maximum Product of Two Elements in an Array             | Easy       | ✅        |
+| 29  | 19-Jul-2026 | 1823. Find the Winner of the Circular Game                    | Medium     | ✅        |
+| 30  | 20-Jul-2026 | 1971. Find if Path Exists in Graph                            | Easy       | ✅        |
+| 31  | 21-Jul-2026 | 547. Number of Provinces                                      | Medium     | ✅        |
+| 32  | 22-Jul-2026 | 733. Flood Fill                                               | Easy       | ✅        |
+| 33  | 23-Jul-2026 | 169. Majority Element                                         | Easy       | ✅        |
+| 34  | 24-Jul-2026 | 290. Word Pattern                                             | Easy       | ✅        |
+| 35  | 25-Jul-2026 | 3042. Count Prefix and Suffix Pairs I                         | Easy       | ✅        |
+| 36  | 26-Jul-2026 | 349. Intersection of Two Arrays                               | Easy       | ✅        |
+| 37  | 27-Jul-2026 | 383. Ransom Note                                              | Easy       | ✅        |
+| 38  | 28-Jul-2026 | 141. Linked List Cycle                                        | Easy       | ✅        |
+| 39  | 29-Jul-2026 | 203. Remove Linked List Elements                              | Easy       | ✅        |
+| 40  | 30-Jul-2026 | 206. Reverse Linked List                                      | Easy       | ✅        |
+| 41  | 31-Jul-2026 | 2130. Maximum Twin Sum of a Linked List                       | Medium     | ✅        |
+| 42  | 01-Aug-2026 | 2181. Merge Nodes in Between Zeros                            | Medium     | ✅        |
+| 43  | 02-Aug-2026 | 23. Merge K Sorted Lists                                      | Hard       | ✅        |
+| 44  | 03-Aug-2026 | 25. Reverse Nodes in k-Group                                  | Hard       | ✅        |
+| 45  | 04-Aug-2026 | 876. Middle of the Linked List                                | Easy       | ✅        |
+| 46  | 05-Aug-2026 | 2. Add Two Numbers                                            | Medium     | ✅        |
+| 47  | 06-Aug-2026 | 206. Reverse Linked List (Recursion)                          | Easy       | ✅        |
+| 48  | 07-Aug-2026 | 231. Power of Two                                             | Easy       | ✅        |
+| 49  | 08-Aug-2026 | 3304. Find the K-th Character in String Game I                | Easy       | ✅        |
+| 50  | 09-Aug-2026 | 3483. Unique 3-Digit Even Numbers                             | Easy       | ✅        |
+| 51  | 10-Aug-2026 | 509. Fibonacci Number                                         | Easy       | ✅        |
+| 52  | 11-Aug-2026 | Additional DSA Practice / Revision                            | —          | ✅        |
+| 53  | 12-Aug-2026 | —                                                             | —          | ✅        |
+| 54  | 13-Aug-2026 | —                                                             | —          | ✅        |
+| 55  | 14-Aug-2026 | —                                                             | —          | ✅        |
+| 56  | 15-Aug-2026 | —                                                             | —          | ✅        |
+| 57  | 16-Aug-2026 | —                                                             | —          | ✅        |
+| 58  | 17-Aug-2026 | —                                                             | —          | ✅        |
+| 59  | 18-Aug-2026 | —                                                             | —          | ✅        |
+| 60  | 21-Aug-2026 | 🏆 60-Day Challenge Completed                                 | —          | ✅        |
 
-> ✅ = Completed    ⏳ = Pending
+> ✅ = Completed
+> ⏳ = Pending
 
+---
 
+## 📈 Challenge Summary
+
+### 🎯 Target
+
+**60 LeetCode days**
+
+### ✅ Completed
+
+**60 / 60 Days**
+
+### 🏆 Completion Rate
+
+**100%**
+
+### 💻 Topics Covered
+
+* 🟢 Arrays
+* 🟢 Strings
+* 🟢 Hash Maps
+* 🟢 Stack
+* 🟢 Queue
+* 🟢 Recursion
+* 🟢 Linked Lists
+* 🟢 Graphs
+* 🟢 Matrix / 2D Grid
+* 🟢 Sliding Window
+* 🟢 Searching
+* 🟢 Problem Solving
+
+---
+
+## 🧠 What I Learned
+
+Throughout this challenge, I practiced solving problems consistently and strengthened my understanding of fundamental DSA concepts.
+
+The challenge helped me improve:
+
+* Problem-solving ability
+* Logical thinking
+* Algorithmic thinking
+* Understanding of data structures
+* Recursion
+* Linked Lists
+* Graph traversal
+* Hash Maps
+* Stacks & Queues
+* Array and String manipulation
+* Writing cleaner and more efficient solutions
+
+---
+
+## 🏆 Challenge Completed!
+
+> **60 Days. No Zero Days. One Problem at a Time. 🚀**
+
+This challenge was not just about solving LeetCode problems.
+
+It was about building the **consistency to show up every single day.**
+
+### 🔥 60/60 — DONE! 🏆
 
 > 💡 **Rule:** No Zero Days. Even one solved problem keeps the streak alive.
 
